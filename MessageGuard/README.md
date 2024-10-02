@@ -33,4 +33,4 @@ Message Guard is a simple Streamlit web app that allows users to encrypt and dec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/message-guard.git
+   git clone https://github.com/Muskan03Jain/PythonProjects/tree/main/MessageGuard.git
